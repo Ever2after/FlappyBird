@@ -1,0 +1,22 @@
+canvas{
+	background-color: #ccc;
+}
+
+#score, #start_btn, #best_score{
+	position : absolute;
+}
+
+#score{
+	left : 30px;
+	top : 20px;
+}
+
+#best_score{
+	left : 380px;
+	top : 400px;
+}
+
+#start_btn{
+	left : 420px;	
+	top : 600px;
+}
