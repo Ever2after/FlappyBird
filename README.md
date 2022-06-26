@@ -1,1 +1,1 @@
-Vanilla JS Minesweeper Project
+Vanilla JS Flappy Bird Project
